@@ -177,6 +177,16 @@ http://localhost/osTicket/
 </p>
 <p>
 14. Delete: C:\inetpub\wwwroot\osTicket\setup <br>
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+13. Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
+
+<a href="https://github.com/aizhuxue007/osticket-postinstall">Go to Post Installations</a>
