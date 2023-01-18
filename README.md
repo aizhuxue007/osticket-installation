@@ -18,15 +18,12 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (2 vCPUs)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Downloads</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- [osTicket v1.15.8](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=share_link)
+- [HeidiSQL](https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit?usp=share_link)
 
 <h2>Installation Steps</h2>
 
@@ -34,7 +31,8 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Install osTickets 1.15.8<br>
+- Make sure the version is exactly the same, so that all the dependencies are compatible. <br>
 </p>
 <br />
 
@@ -42,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Extract and copy the 'upload' folder to c:\inetpub\wwwroot
 </p>
 <br />
 
@@ -50,6 +48,135 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Rename 'upload' folder to 'osTicket' within c:\inetpub\wwwroot <br>
+  - This folder are the web files that displays osTicket in your browser.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. Refresh IIS <br>
+  - Within IIS, press the restart icon 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5. Within IIS: <br>
+ Press sites <br> 
+ -> Default <br>
+ -> osTicket <br>
+ -> Click “Browse *:80” <br>
+ -> Voila! You can see osTicket on your browser!
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6. Enable PHP extensions
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  7. Rename C:\inetpub\wwwroot\osTicket\include\<strong>ost-sampleconfig.php</strong> to C:\inetpub\wwwroot\osTicket\include\<strong>ost-config.php</strong>
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+8. Left click ost-config.php <br>
+-> Properties <br>
+-> Disable inheritance -> Remove All <br>
+-> New Permissions -> Everyone -> All
+
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+9. In the browser, click 'continue' to set up osTicket <br>
+- Note that the Default email receives email from endusers.
+
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+10. Download and install HeidiSQL. <br>
+- HeidiSQL is an interface between osTicket and MySQL <br>
+- Create a new session, root/Password1 <br>
+- Connect to the session <br>
+- Create a database called “osTicket”
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+11. Setting up MySQL in osticket and installing <br>
+MySQL Database: osTicket <br>
+MySQL Username: root <br>
+MySQL Password: Password1 <br>
+Click “Install Now!”
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+12. Check for no errors after installing then, browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+13. Browse as End Users in osTicket:
+http://localhost/osTicket/ 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+14. Delete: C:\inetpub\wwwroot\osTicket\setup <br>
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
