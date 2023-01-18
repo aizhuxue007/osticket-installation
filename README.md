@@ -49,7 +49,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 </p>
 <p>
 3. Rename 'upload' folder to 'osTicket' within c:\inetpub\wwwroot <br>
-  - This folder are the web files that displays osTicket in your browser.
+  - This folder hold web files that displays osTicket in your browser.
 </p>
 <br />
 
