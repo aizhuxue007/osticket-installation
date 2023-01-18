@@ -67,11 +67,12 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 </p>
 <p>
 5. Within IIS: <br>
- Press sites <br> 
+ Press <br>
+ -> Sites <br> 
  -> Default <br>
  -> osTicket <br>
  -> Click “Browse *:80” <br>
- -> Voila! You can see osTicket on your browser!
+ Voila! You should see osTicket on your browser!
 
 </p>
 <br />
