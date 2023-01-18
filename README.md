@@ -80,14 +80,14 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Enable PHP extensions
-Go back to IIS, sites -> Default -> osTicket
-Double-click PHP Manager
-Click “Enable or disable an extension”
-Enable: php_imap.dll
-Enable: php_intl.dll
-Enable: php_opcache.dll
-Refresh the osTicket site in your browse, observe the changes
+6. Enable PHP extensions <br>
+Go back to IIS, sites -> Default -> osTicket <br>
+Double-click PHP Manager <br>
+Click “Enable or disable an extension” <br>
+Enable: php_imap.dll <br>
+Enable: php_intl.dll <br>
+Enable: php_opcache.dll <br>
+Refresh the webpage, notice that we are closer to installation!
 </p>
 <br />
 
