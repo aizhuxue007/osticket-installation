@@ -66,8 +66,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Within IIS: <br>
- Press <br>
+5. Within IIS, click: 
  -> Sites <br> 
  -> Default <br>
  -> osTicket <br>
