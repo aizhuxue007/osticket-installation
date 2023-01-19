@@ -48,7 +48,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 
 <p>
-3. Rename 'upload' folder to 'osTicket' within c:\inetpub\wwwroot <br>
+3.  Within the wwwroot directory, rename the 'upload' folder to 'osTicket' <br>
   - This folder hold web files that displays osTicket page in your browser.
 </p>
 <p>
@@ -58,7 +58,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 
 <p>
-4. Restart IIS <br>
+4. Restart IIS. <br>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -68,10 +68,11 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 <p>
 5. Within IIS browse the osTicket webpage <br> 
+ Click on: 
  -> Sites <br> 
  -> Default <br>
  -> osTicket <br>
- -> Click “Browse *:80” <br>
+ -> Browse *:80 on right panel <br>
  Voila! You should see osTicket on your browser!
 </p>
 <p>
@@ -82,7 +83,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 <p>
 6. Enable PHP extensions <br>
 <!-- Go back to IIS, sites -> Default -> osTicket <br> -->
-In IIS, double-click on PHP Manager then go to “Enable or disable an extension” <br>
+Back in IIS, double-click on PHP Manager then go to “Enable or disable an extension” <br>
 Enable: <br>
 &emsp;php_imap.dll <br>
 &emsp;php_intl.dll <br>
@@ -109,11 +110,10 @@ Refresh the webpage, PHP extensions are now completed!
 
 
 <p>
-8. Left click ost-config.php <br>
--> Properties <br>
--> Disable inheritance -> Remove All <br>
--> New Permissions -> Everyone -> All
-
+8. Right click ost-config.php <br>
+- Properties <br>
+- Disable inheritance -> Remove All <br>
+- New Permissions -> Everyone -> All permissions
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -123,7 +123,7 @@ Refresh the webpage, PHP extensions are now completed!
 
 
 <p>
-9. In the browser, click 'continue' to set up osTicket <br>
+9. In the browser, 'continue' setting up osTickets <br>
 - Note that the Default email is for receiving email from endusers.
 
 </p>
@@ -163,8 +163,8 @@ Click “Install Now!”
 
 
 <p>
-12. Check for no errors after installing then, browse to your help desk login page: http://localhost/osTicket/scp/login.php
-
+12. Check for no errors after installing! <br>
+  Congratulations, you are almost done!!
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -198,5 +198,16 @@ http://localhost/osTicket/
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+</p>
+<br />
+<p>
+13. Helpdesk login page: http://localhost/osTicket/scp/login.php 
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 <a href="https://github.com/aizhuxue007/osticket-postinstall">Go to Post Installations</a>
