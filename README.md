@@ -37,7 +37,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 2. Extract and move the 'upload' folder to c:\inetpub\wwwroot
 </p>
 <p>
-<a href="https://ibb.co/GkxrYTD"><img src="https://i.ibb.co/vmwMyYW/extractandmoveupload.png" alt="extractandmoveupload" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>images for files</a><br />
+<a href="https://ibb.co/GkxrYTD"><img src="https://i.ibb.co/vmwMyYW/extractandmoveupload.png" alt="extractandmoveupload" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   <a href="https://ibb.co/WfWCQpx"><img src="https://i.ibb.co/GRvmX3x/uploadfolder.png" alt="uploadfolder" border="0"></a>
 </p>
 <br />
@@ -48,7 +48,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
   - This folder hold web files that displays osTicket page in your browser.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+\<a href="https://ibb.co/SBssj5K"><img src="https://i.ibb.co/1Tvvg79/renametoosticke.png" alt="renametoosticke" border="0"></a>
 </p>
 <br />
 
@@ -72,7 +72,8 @@ This quick tutorial guides the installation of the open-source help desk ticketi
  Voila! You should see osTicket on your browser!
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/HhFnGtt"><img src="https://i.ibb.co/7kY2rnn/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>photo url</a><br />
+<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/PFZxb6z/click-browse-80.png" alt="click-browse-80" border="0"></a>
 </p>
 <br />
 
@@ -87,7 +88,10 @@ Enable: <br>
 Refresh the webpage, PHP extensions are now completed!
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.co/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
+<a href="https://ibb.co/KXHwHFv"><img src="https://i.ibb.co/FKtVtgT/enablephpextension2.png" alt="enablephpextension2" border="0"></a>
+<a href="https://ibb.co/4ZRV3H9"><img src="https://i.ibb.co/sv9VzZk/Screenshot-2023-01-18-at-2-28-04-PM.png" alt="refreshosticketbrowser" border="0"></a>
+<a href="https://ibb.co/b2p4FD2"><img src="https://i.ibb.co/nnhXBtn/extensionsok.png" alt="extensionsok" border="0"></a>
 </p>
 <br />
 
@@ -99,7 +103,7 @@ Refresh the webpage, PHP extensions are now completed!
   - File is located in C:\inetpub\wwwroot\osTicket\include\<strong>ost-sampleconfig.php</strong> 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/JsP4JQ3"><img src="https://i.ibb.co/tJ5trXL/renametoostconfig1.png" alt="renametoostconfig1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>post picture</a><br />
 </p>
 <br />
 
@@ -112,7 +116,11 @@ Refresh the webpage, PHP extensions are now completed!
 - New Permissions -> Everyone -> All permissions
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free photo upload</a><br />
+<a href="https://ibb.co/nc6jQCf"><img src="https://i.ibb.co/9TcWyt2/ost-config-permi.png" alt="ost-config-permi" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host image online</a><br />
+<a href="https://ibb.co/7ncbjW4"><img src="https://i.ibb.co/2v25WtN/addeveryonepermission.png" alt="addeveryonepermission" border="0"></a>
+<a href="https://ibb.co/mX8mLfb"><img src="https://i.ibb.co/9VtJFQc/enableallpermissions.png" alt="enableallpermissions" border="0"></a>
+<a href="https://ibb.co/cxtd3br"><img src="https://i.ibb.co/DLknWGR/enableallpermissionslast.png" alt="enableallpermissionslast" border="0"></a>
 </p>
 <br />
 
@@ -124,7 +132,8 @@ Refresh the webpage, PHP extensions are now completed!
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/LNmLKCt"><img src="https://i.ibb.co/PDK7k5h/extensionsok.png" alt="extensionsok" border="0"></a>
+<a href="https://ibb.co/Gp0FG3P"><img src="https://i.ibb.co/7CXbBNy/Screenshot-2023-01-18-at-2-32-04-PM.png" alt="osTicketSetupform" border="0"></a>
 </p>
 <br />
 
@@ -138,7 +147,11 @@ Refresh the webpage, PHP extensions are now completed!
 - Create a database called “osTicket”
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/f2FB12d"><img src="https://i.ibb.co/9Ngz8NH/Screenshot-2023-01-18-at-2-32-44-PM.png" alt="HeidiSQLInstallation" border="0"></a>
+<a href="https://ibb.co/GtGBDgZ"><img src="https://i.ibb.co/VQbrGXF/heidisqlcreatenew.png" alt="heidisqlcreatenew" border="0"></a>
+<a href="https://ibb.co/0hKmYNr"><img src="https://i.ibb.co/nzB6Q2j/newsessioninroot.png" alt="newsessioninroot" border="0"></a>
+<a href="https://ibb.co/YW9Vt6R"><img src="https://i.ibb.co/ZJsbh3L/heidisqldone.png" alt="heidisqldone" border="0"></a>
+<a href="https://ibb.co/1QLY1nT"><img src="https://i.ibb.co/F3Kk2Wz/Screenshot-2023-01-18-at-2-36-30-PM.png" alt="heidisqlnameosticket" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>private image hosting</a><br />
 </p>
 <br />
 
@@ -152,7 +165,8 @@ MySQL Password: Password1 <br>
 Click “Install Now!”
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/FV3v8m9"><img src="https://i.ibb.co/vYq5LVb/Screenshot-2023-01-18-at-2-37-26-PM.png" alt="fillmysqlsection" border="0"></a>
+<a href="https://ibb.co/tp8m7h6"><img src="https://i.ibb.co/KxF0MGg/installnow.png" alt="installnow" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>anonymous pictures website</a><br />
 </p>
 <br />
 
@@ -160,11 +174,10 @@ Click “Install Now!”
 
 <p>
 12. Check for no errors after installing! <br>
-  Congratulations, you are almost done!!
+  Congratulations, you are almost done!
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://ibb.co/QjN9r4g"><img src="https://i.ibb.co/6JPYgkM/Screenshot-2023-01-18-at-2-38-09-PM.png" alt="installationcomplete" border="0"></a></p>
 <br />
 
 <p>
