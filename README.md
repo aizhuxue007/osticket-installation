@@ -72,8 +72,8 @@ This quick tutorial guides the installation of the open-source help desk ticketi
  Voila! You should see osTicket on your browser!
 </p>
 <p>
-<a href="https://ibb.co/HhFnGtt"><img src="https://i.ibb.co/7kY2rnn/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/jbvhxrZ/click-browse-80.png" alt="click-browse-80" border="0" /></a>
+<a href="https://ibb.co/HhFnGtt"><img src="https://i.ibb.co/7kY2rnn/Screenshot-2023-01-18-at-2-25-57-PM.png" width='80%' height='80%' alt="Screenshot-2023-01-18-at-2-25-57-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/PFZxb6z/click-browse-80.png" width='80%' height='80%' alt="click-browse-80" border="0" /></a>
 </p>
 <br />
 
