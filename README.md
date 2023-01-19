@@ -166,7 +166,7 @@ Click “Install Now!”
 </p>
 <p>
 <a href="https://ibb.co/FV3v8m9"><img src="https://i.ibb.co/vYq5LVb/Screenshot-2023-01-18-at-2-37-26-PM.png" alt="fillmysqlsection" border="0"></a>
-<a href="https://ibb.co/tp8m7h6"><img src="https://i.ibb.co/KxF0MGg/installnow.png" alt="installnow" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>anonymous pictures website</a><br />
+<a href="https://ibb.co/tp8m7h6"><img src="https://i.ibb.co/KxF0MGg/installnow.png" alt="installnow" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </p>
 <br />
 
