@@ -175,8 +175,8 @@ Click “Install Now!”
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-13. Set "Read" only permissions for ost-config.php file.
-- Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+13. Set "Read" only permissions for ost-config.php file. <br>
+- Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
 - Right click on file
 </p>
 <br />
@@ -191,7 +191,7 @@ Click “Install Now!”
 </p>
 <br />
 <p>
-13. Browse as End Users in osTicket:
+15. Browse as End Users in osTicket:
 http://localhost/osTicket/ 
 </p>
 <p>
@@ -202,7 +202,7 @@ http://localhost/osTicket/
 </p>
 <br />
 <p>
-13. Helpdesk login page: http://localhost/osTicket/scp/login.php 
+16. Helpdesk login page: http://localhost/osTicket/scp/login.php 
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
