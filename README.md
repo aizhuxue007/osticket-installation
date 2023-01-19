@@ -72,8 +72,8 @@ This quick tutorial guides the installation of the open-source help desk ticketi
  Voila! You should see osTicket on your browser!
 </p>
 <p>
-<a href="https://ibb.co/HhFnGtt"><img src="https://i.ibb.co/7kY2rnn/Screenshot-2023-01-18-at-2-25-57-PM.png" width='80%' height='80%' alt="Screenshot-2023-01-18-at-2-25-57-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/PFZxb6z/click-browse-80.png" width='80%' height='80%' alt="click-browse-80" border="0" /></a>
+<a href="https://ibb.co/HhFnGtt"><img src="https://i.ibb.co/7kY2rnn/Screenshot-2023-01-18-at-2-25-57-PM.png" width='80%' height='80%' alt="Screenshot-2023-01-18-at-2-25-57-PM"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/PFZxb6z/click-browse-80.png" width='80%' height='80%' alt="click-browse-80"/></a>
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Refresh the webpage, PHP extensions are now completed!
   - File is located in C:\inetpub\wwwroot\osTicket\include\<strong>ost-sampleconfig.php</strong> 
 </p>
 <p>
-<a href="https://ibb.co/JsP4JQ3"><img src="https://i.ibb.co/tJ5trXL/renametoostconfig1.png" alt="renametoostconfig1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>post picture</a><br />
+<a href="https://ibb.co/JsP4JQ3"><img src="https://i.ibb.co/tJ5trXL/renametoostconfig1.png" alt="renametoostconfig1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </p>
 <br />
 
@@ -116,8 +116,8 @@ Refresh the webpage, PHP extensions are now completed!
 - New Permissions -> Everyone -> All permissions
 </p>
 <p>
-<a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free photo upload</a><br />
-<a href="https://ibb.co/nc6jQCf"><img src="https://i.ibb.co/9TcWyt2/ost-config-permi.png" alt="ost-config-permi" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host image online</a><br />
+<a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/nc6jQCf"><img src="https://i.ibb.co/9TcWyt2/ost-config-permi.png" alt="ost-config-permi" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 <a href="https://ibb.co/7ncbjW4"><img src="https://i.ibb.co/2v25WtN/addeveryonepermission.png" alt="addeveryonepermission" border="0"></a>
 <a href="https://ibb.co/mX8mLfb"><img src="https://i.ibb.co/9VtJFQc/enableallpermissions.png" alt="enableallpermissions" border="0"></a>
 <a href="https://ibb.co/cxtd3br"><img src="https://i.ibb.co/DLknWGR/enableallpermissionslast.png" alt="enableallpermissionslast" border="0"></a>
@@ -151,7 +151,7 @@ Refresh the webpage, PHP extensions are now completed!
 <a href="https://ibb.co/GtGBDgZ"><img src="https://i.ibb.co/VQbrGXF/heidisqlcreatenew.png" alt="heidisqlcreatenew" border="0"></a>
 <a href="https://ibb.co/0hKmYNr"><img src="https://i.ibb.co/nzB6Q2j/newsessioninroot.png" alt="newsessioninroot" border="0"></a>
 <a href="https://ibb.co/YW9Vt6R"><img src="https://i.ibb.co/ZJsbh3L/heidisqldone.png" alt="heidisqldone" border="0"></a>
-<a href="https://ibb.co/1QLY1nT"><img src="https://i.ibb.co/F3Kk2Wz/Screenshot-2023-01-18-at-2-36-30-PM.png" alt="heidisqlnameosticket" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>private image hosting</a><br />
+<a href="https://ibb.co/1QLY1nT"><img src="https://i.ibb.co/F3Kk2Wz/Screenshot-2023-01-18-at-2-36-30-PM.png" alt="heidisqlnameosticket" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </p>
 <br />
 
