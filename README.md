@@ -99,7 +99,7 @@ Refresh the webpage, PHP extensions are now completed!
 
 
 <p>
-  7. Rename <strong>ost-sampleconfig.php</strong> to <strong>ost-config.php</strong>. 
+  7. Rename <strong>ost-sampleconfig.php</strong> to <strong>ost-config.php</strong>. <br>
   - File is located in C:\inetpub\wwwroot\osTicket\include\<strong>ost-sampleconfig.php</strong> 
 </p>
 <p>
