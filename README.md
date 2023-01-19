@@ -73,7 +73,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 </p>
 <p>
 <img src="https://i.ibb.co/g4jztSS/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM">
-<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/jbvhxrZ/click-browse-80.png" alt="click-browse-80" border="0" /></a>
+<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/jbvhxrZ/click-browse-80.png" width="300" alt="click-browse-80" border="0" /></a>
 </p>
 <br />
 
