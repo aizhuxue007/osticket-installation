@@ -88,9 +88,8 @@ Enable: <br>
 Refresh the webpage, PHP extensions are now completed!
 </p>
 <p>
-  https://ibb.co/KXHwHFv
 <a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.co/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
-<img src="https://i.ibb.co/FKtVtgT/enablephpextension2.png" alt="enablephpextension2" border="0">
+<img src="https://i.ibb.co/pxpypJF/enablephpextension2.png" alt="enablephpextension2" border="0">
 <a href="https://ibb.co/4ZRV3H9"><img src="https://i.ibb.co/sv9VzZk/Screenshot-2023-01-18-at-2-28-04-PM.png" alt="refreshosticketbrowser" border="0"></a>
 <a href="https://ibb.co/b2p4FD2"><img src="https://i.ibb.co/nnhXBtn/extensionsok.png" alt="extensionsok" border="0"></a>
 </p>
