@@ -5,11 +5,6 @@
 <h1>osTicket - Installation</h1>
 This quick tutorial guides the installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,11 +24,11 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 
 <p>
-1. Install osTickets 1.15.8<br>
+1. Download and Install osTickets 1.15.8<br>
 - Make sure the version is exactly the same, so that all the dependencies are compatible. <br>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/Km3bTJ1"><img src="https://i.ibb.co/TrFY9sC/downloadosticket.png" alt="downloadosticket" border="0"></a>
 </p>
 <br />
 
@@ -42,7 +37,8 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 2. Extract and move the 'upload' folder to c:\inetpub\wwwroot
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/GkxrYTD"><img src="https://i.ibb.co/vmwMyYW/extractandmoveupload.png" alt="extractandmoveupload" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>images for files</a><br />
+  <a href="https://ibb.co/WfWCQpx"><img src="https://i.ibb.co/GRvmX3x/uploadfolder.png" alt="uploadfolder" border="0"></a>
 </p>
 <br />
 
@@ -61,7 +57,7 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 4. Restart IIS. <br>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
 </p>
 <br />
 
