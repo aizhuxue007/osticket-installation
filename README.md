@@ -124,7 +124,7 @@ Refresh the webpage, PHP extensions are now completed!
 
 <p>
 9. In the browser, 'continue' setting up osTickets <br>
-- Note that the Default email is for receiving email from endusers.
+  - Fill out information up until the mySQL section.
 
 </p>
 <p>
@@ -136,7 +136,7 @@ Refresh the webpage, PHP extensions are now completed!
 
 <p>
 10. Download and install HeidiSQL. <br>
-- HeidiSQL is an interface between osTicket and MySQL <br>
+- HeidiSQL interfaces between osTicket and MySQL. <br>
 - Create a new session, root/Password1 <br>
 - Connect to the session <br>
 - Create a database called “osTicket”
