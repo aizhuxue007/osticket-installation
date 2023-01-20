@@ -178,9 +178,9 @@ Refresh the webpage, PHP extensions are now completed!
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-13. Set "Read" only permissions for ost-config.php file. <br>
+13. Set ost-config.php with "Read" only permissions. <br>
 - Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
-  - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>
+  - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>, check only the Read box
 </p>
 <br />
 <p>
@@ -192,7 +192,7 @@ Refresh the webpage, PHP extensions are now completed!
 </p>
 <br />
 <p>
-15. Browse as End Users and Help Desk Agent in osTicket:
+14. Browse as End Users and Help Desk Agent in osTicket:
 - Enduser: http://localhost/osTicket/ 
 - Help Desk Agent: http://localhost/osTicket/scp/login.php 
 </p>
