@@ -137,9 +137,9 @@ Refresh the webpage, PHP extensions are now completed!
 <p>
 10. Download and install HeidiSQL. <br>
 - HeidiSQL interfaces between osTicket and MySQL. <br>
-- Create a new session, root/Password1 <br>
-- Connect to the session <br>
-- Create a database called “osTicket”
+- Create a new session with database root and set a generic password: Password1. <br>
+- Connect to the session. <br>
+- Create a database named “osTicket”.
 </p>
 <p>
 <a href="https://ibb.co/f2FB12d"><img src="https://i.ibb.co/9Ngz8NH/Screenshot-2023-01-18-at-2-32-44-PM.png" alt="HeidiSQLInstallation" border="0"></a>
@@ -151,11 +151,11 @@ Refresh the webpage, PHP extensions are now completed!
 
 
 <p>
-11. Setting up MySQL in osticket and installing <br>
-MySQL Database: osTicket <br>
-MySQL Username: root <br>
-MySQL Password: Password1 <br>
-Click “Install Now!”
+11. Filling up the MySQL section and installing osTicket <br>
+- MySQL Database: osTicket <br>
+- MySQL Username: root <br>
+- MySQL Password: Password1 <br>
+- Click “Install Now!”
 </p>
 <p>
 <a href="https://ibb.co/FV3v8m9"><img src="https://i.ibb.co/vYq5LVb/Screenshot-2023-01-18-at-2-37-26-PM.png" alt="fillmysqlsection" border="0"></a>
@@ -180,11 +180,9 @@ Click “Install Now!”
 <p>
 13. Set "Read" only permissions for ost-config.php file. <br>
 - Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
-- Right click on file
+  - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>
 </p>
 <br />
-
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -194,23 +192,13 @@ Click “Install Now!”
 </p>
 <br />
 <p>
-15. Browse as End Users in osTicket:
-http://localhost/osTicket/ 
+15. Browse as End Users and Help Desk Agent in osTicket:
+- Enduser: http://localhost/osTicket/ 
+- Help Desk Agent: http://localhost/osTicket/scp/login.php 
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
-</p>
-<br />
-<p>
-16. Helpdesk login page: http://localhost/osTicket/scp/login.php 
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
 
 <a href="https://github.com/aizhuxue007/osticket-postinstall">Go to Post Installations</a>
