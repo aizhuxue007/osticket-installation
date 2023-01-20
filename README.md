@@ -90,7 +90,6 @@ Refresh the webpage, PHP extensions are now completed!
 <p>
 <a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.co/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
 <img src="https://i.ibb.co/pxpypJF/enablephpextension2.png" width="500" alt="enablephpextension2" border="0">
-<a href="https://ibb.co/4ZRV3H9"><img src="https://i.ibb.co/4ZRV3H9/Screenshot-2023-01-18-at-2-28-04-PM.png" alt="Screenshot-2023-01-18-at-2-28-04-PM" width="350" border="0" /></a>
 </p>
 <br />
 
@@ -119,7 +118,6 @@ Refresh the webpage, PHP extensions are now completed!
 <a href="https://ibb.co/nc6jQCf"><img src="https://i.ibb.co/9TcWyt2/ost-config-permi.png" alt="ost-config-permi" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 <a href="https://ibb.co/7ncbjW4"><img src="https://i.ibb.co/2v25WtN/addeveryonepermission.png" alt="addeveryonepermission" border="0"></a>
 <a href="https://ibb.co/mX8mLfb"><img src="https://i.ibb.co/9VtJFQc/enableallpermissions.png" alt="enableallpermissions" border="0"></a>
-<a href="https://ibb.co/cxtd3br"><img src="https://i.ibb.co/cxtd3br/enableallpermissionslast.png" alt="enableallpermissionslast" width="450" border="0" /></a>
 </p>
 <br />
 
@@ -130,7 +128,6 @@ Refresh the webpage, PHP extensions are now completed!
   - Fill out information up until the mySQL section.
 </p>
 <p>
-<a href="https://ibb.co/LNmLKCt"><img src="https://i.ibb.co/LNmLKCt/extensionsok.png" width="500" alt="extensionsok" border="0" /></a>
 <a href="https://ibb.co/Gp0FG3P"><img src="https://i.ibb.co/7CXbBNy/Screenshot-2023-01-18-at-2-32-04-PM.png" alt="osTicketSetupform" border="0"></a>
 </p>
 <br />
@@ -146,9 +143,7 @@ Refresh the webpage, PHP extensions are now completed!
 </p>
 <p>
 <a href="https://ibb.co/f2FB12d"><img src="https://i.ibb.co/9Ngz8NH/Screenshot-2023-01-18-at-2-32-44-PM.png" alt="HeidiSQLInstallation" border="0"></a>
-<a href="https://ibb.co/GtGBDgZ"><img src="https://i.ibb.co/GtGBDgZ/heidisqlcreatenew.png" width="500" alt="heidisqlcreatenew" border="0" /></a>
 <a href="https://ibb.co/0hKmYNr"><img src="https://i.ibb.co/nzB6Q2j/newsessioninroot.png" alt="newsessioninroot" border="0"></a>
-<a href="https://ibb.co/YW9Vt6R"><img src="https://i.ibb.co/YW9Vt6R/heidisqldone.png" width="500" alt="heidisqldone" border="0" /></a>
 <a href="https://ibb.co/1QLY1nT"><img src="https://i.ibb.co/F3Kk2Wz/Screenshot-2023-01-18-at-2-36-30-PM.png" alt="heidisqlnameosticket" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </p>
 <br />
@@ -175,7 +170,7 @@ Click “Install Now!”
   Congratulations, you are almost done!
 </p>
 <p>
-<a href="https://ibb.co/QjN9r4g"><img src="https://i.ibb.co/QjN9r4g/Screenshot-2023-01-18-at-2-38-09-PM.png" width="500" alt="Screenshot-2023-01-18-at-2-38-09-PM" border="0" /></a>
+
 </p>
 <br />
 
