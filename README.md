@@ -64,12 +64,12 @@ This quick tutorial guides the installation of the open-source help desk ticketi
 
 <p>
 5. Within IIS browse the osTicket webpage <br> 
- Click on: 
- -> Sites <br> 
- -> Default <br>
- -> osTicket <br>
- -> Browse *:80 on right panel <br>
- Voila! You should see osTicket on your browser!
+ Go to: <br>
+ - Sites <br> 
+ - Default <br>
+ - osTicket <br>
+ - Browse *:80 on right panel <br>
+ And Voila! You should see osTicket on your browser!
 </p>
 <p>
 <img src="https://i.ibb.co/g4jztSS/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM">
@@ -110,8 +110,8 @@ Refresh the webpage, PHP extensions are now completed!
 <p>
 8. Right click ost-config.php <br>
 - Properties <br>
-- Disable inheritance -> Remove All <br>
-- New Permissions -> Everyone -> All permissions
+- <strong>Disable inheritance</strong> and <strong>Remove All</strong> <br>
+- <strong>New Permissions</strong> then <strong>Everyone</strong> and allow <strong>All permissions</strong>
 </p>
 <p>
 <a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
