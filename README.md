@@ -111,7 +111,7 @@ Refresh the webpage, PHP extensions are now completed!
 8. Right click ost-config.php <br>
 - Properties <br>
 - <strong>Disable inheritance</strong> and <strong>Remove All</strong> <br>
-- <strong>New Permissions</strong> then <strong>Everyone</strong> and allow <strong>All permissions</strong>
+- <strong>New Permissions</strong> then <strong>Everyone</strong> and allow <strong>Full Control</strong>
 </p>
 <p>
 <a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
