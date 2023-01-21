@@ -51,7 +51,7 @@ This quick tutorial guides the installation of osTicket, the open-source help de
   - This folder hold web files that displays osTicket page in your browser.
 </p>
 <p>
-\<a href="https://ibb.co/SBssj5K"><img src="https://i.ibb.co/1Tvvg79/renametoosticke.png" alt="renametoosticke" border="0"></a>
+<a href="https://ibb.co/SBssj5K"><img src="https://i.ibb.co/1Tvvg79/renametoosticke.png" alt="renametoosticke" border="0"></a>
 </p>
 <br />
 
@@ -60,7 +60,7 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 4. Restart IIS. <br>
 </p>
 <p>
-<a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
+<img width="1791" alt="restart-iis-installation" src="https://user-images.githubusercontent.com/17282458/213874127-e69e6451-ea08-4b69-95af-fbdfd6ac4501.png">
 </p>
 <br />
 
@@ -93,8 +93,8 @@ Refresh the webpage, PHP extensions are now completed!
 <p>
   <img width="810" alt="enablephpextension1" src="https://user-images.githubusercontent.com/17282458/213873683-614ae724-3386-4700-b7a3-19dc7c798824.png">
 <img width="483" alt="enablephpextension2" src="https://user-images.githubusercontent.com/17282458/213873693-3cec8499-f729-40df-9ea9-d6da5a31e61f.png">
+  <img width="1761" alt="phpextinstalled" src="https://user-images.githubusercontent.com/17282458/213874013-06381315-0e12-48f1-842c-dcbc5ea055b0.png">
 
-  
 </p>
 <br />
 
