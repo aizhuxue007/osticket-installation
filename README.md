@@ -91,10 +91,9 @@ Enable: <br>
 Refresh the webpage, PHP extensions are now completed!
 </p>
 <p>
-<a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.c![Uploading click-browse-80.png…]()
-o/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
+  <img width="810" alt="enablephpextension1" src="https://user-images.githubusercontent.com/17282458/213873683-614ae724-3386-4700-b7a3-19dc7c798824.png">
+<img width="483" alt="enablephpextension2" src="https://user-images.githubusercontent.com/17282458/213873693-3cec8499-f729-40df-9ea9-d6da5a31e61f.png">
 
-  
   
 </p>
 <br />
