@@ -116,9 +116,9 @@ Refresh the webpage, PHP extensions are now completed!
 
 <p>
 8. Right click ost-config.php <br>
-- Properties <br>
-- <strong>Disable inheritance</strong> and <strong>Remove All</strong> <br>
-- <strong>New Permissions</strong> then <strong>Everyone</strong> and allow <strong>Full Control</strong>
+- Properties > Security > Advanced<br>
+- Disable inheritance and Remove All <br>
+- New Permissions then Everyone and allow Full Control
 - Hit OK!
 </p>
 <p><img width="1124" alt="ostconfig-properties" src="https://user-images.githubusercontent.com/17282458/213874804-7a949dbc-bbec-4a38-bc64-5da71fd68700.png">
