@@ -148,10 +148,11 @@ Refresh the webpage, PHP extensions are now completed!
 - Connect to the session. <br>
 - Create a database named “osTicket”.
 </p>
-<p>
-<a href="https://ibb.co/f2FB12d"><img src="https://i.ibb.co/9Ngz8NH/Screenshot-2023-01-18-at-2-32-44-PM.png" alt="HeidiSQLInstallation" border="0"></a>
-<a href="https://ibb.co/0hKmYNr"><img src="https://i.ibb.co/nzB6Q2j/newsessioninroot.png" alt="newsessioninroot" border="0"></a>
-<a href="https://ibb.co/1QLY1nT"><img src="https://i.ibb.co/F3Kk2Wz/Screenshot-2023-01-18-at-2-36-30-PM.png" alt="heidisqlnameosticket" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<p><img width="967" alt="heidi-installation" src="https://user-images.githubusercontent.com/17282458/213875363-203a8cff-4b4e-47b2-bcf5-cfcb268fd510.png">
+<img width="737" alt="heidi-new-session" src="https://user-images.githubusercontent.com/17282458/213875426-344175ff-eec2-41e1-9e0e-ee4a4833b83f.png">
+  <img width="985" alt="Screenshot 2023-01-18 at 2 36 30 PM" src="https://user-images.githubusercontent.com/17282458/213875456-e6177ca8-8303-4cfc-bb0a-9369cc8716b1.png">
+<img width="1003" alt="heidisqldone" src="https://user-images.githubusercontent.com/17282458/213875441-1d19572d-c9c0-4de8-99ce-bf4ecfe70a8b.png">
+</a><br />
 </p>
 <br />
 
@@ -165,8 +166,8 @@ Refresh the webpage, PHP extensions are now completed!
 - Click “Install Now!”
 </p>
 <p>
-<a href="https://ibb.co/FV3v8m9"><img src="https://i.ibb.co/vYq5LVb/Screenshot-2023-01-18-at-2-37-26-PM.png" alt="fillmysqlsection" border="0"></a>
-<a href="https://ibb.co/tp8m7h6"><img src="https://i.ibb.co/KxF0MGg/installnow.png" alt="installnow" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+  <img width="1044" alt="installnow" src="https://user-images.githubusercontent.com/17282458/213875470-a6f0fc35-e5c1-4932-b3d2-cc9623e02666.png">
+
 </p>
 <br />
 
@@ -176,16 +177,11 @@ Refresh the webpage, PHP extensions are now completed!
 12. Check for no errors after installing! <br>
   Congratulations, you are almost done!
 </p>
-<p>
-
+<p><img width="1698" alt="Screenshot 2023-01-18 at 2 38 09 PM" src="https://user-images.githubusercontent.com/17282458/213875481-4d2c62c4-d475-4784-b2c0-0704f31042d0.png">
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  The next steps are cleanup for optimization and security reasons.
+  The next steps are cleanup for optimization and security reasons. <br>
 13. Set ost-config.php with "Read" only permissions. <br>
 - Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
   - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>, check only the Read box
