@@ -201,8 +201,8 @@ Refresh the webpage, PHP extensions are now completed!
 <br />
 
 <p>
-15. Browse as End Users and Help Desk Agent in osTicket:
-- Enduser: http://localhost/osTicket/ 
+15. Browse as End Users and Help Desk Agent in osTicket: <br>
+- Enduser: http://localhost/osTicket/ <br>
 - Help Desk Agent: http://localhost/osTicket/scp/login.php 
 </p>
 <p>
