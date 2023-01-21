@@ -40,7 +40,7 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 <p>
 <img width="1340" alt="extractandmoveupload" src="https://user-images.githubusercontent.com/17282458/213872341-0ff1aeeb-5f0c-4655-bdec-2ad3f694086c.png">
 <img width="1211" alt="uploadfolder" src="https://user-images.githubusercontent.com/17282458/213872361-85271713-a4fe-4c3f-a89e-7578d0be8a33.png">
-<img width="1175" alt="renametoosticke" src="https://user-images.githubusercontent.com/17282458/213872370-129d1116-174c-45fe-8ddf-1b03169f35e0.png">
+
 
 </p>
 <br />
@@ -51,7 +51,7 @@ This quick tutorial guides the installation of osTicket, the open-source help de
   - This folder hold web files that displays osTicket page in your browser.
 </p>
 <p>
-<a href="https://ibb.co/SBssj5K"><img src="https://i.ibb.co/1Tvvg79/renametoosticke.png" alt="renametoosticke" border="0"></a>
+<img width="1175" alt="renametoosticke" src="https://user-images.githubusercontent.com/17282458/213872370-129d1116-174c-45fe-8ddf-1b03169f35e0.png">
 </p>
 <br />
 
