@@ -28,7 +28,8 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 - Make sure the version is exactly the same, so that all the dependencies are compatible. <br>
 </p>
 <p>
-<a href="https://ibb.co/Km3bTJ1"><img src="https://i.ibb.co/TrFY9sC/downloadosticket.png" alt="downloadosticket" border="0"></a>
+<img width="1777" alt="downloadosticket" src="https://user-images.githubusercontent.com/17282458/213872317-abc37d0e-97de-4260-9f16-0acc07765547.png">
+
 </p>
 <br />
 
@@ -37,8 +38,10 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 2. Extract and move the 'upload' folder to c:\inetpub\wwwroot
 </p>
 <p>
-<a href="https://ibb.co/GkxrYTD"><img src="https://i.ibb.co/vmwMyYW/extractandmoveupload.png" alt="extractandmoveupload" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  <a href="https://ibb.co/WfWCQpx"><img src="https://i.ibb.co/GRvmX3x/uploadfolder.png" alt="uploadfolder" border="0"></a>
+<img width="1340" alt="extractandmoveupload" src="https://user-images.githubusercontent.com/17282458/213872341-0ff1aeeb-5f0c-4655-bdec-2ad3f694086c.png">
+<img width="1211" alt="uploadfolder" src="https://user-images.githubusercontent.com/17282458/213872361-85271713-a4fe-4c3f-a89e-7578d0be8a33.png">
+<img width="1175" alt="renametoosticke" src="https://user-images.githubusercontent.com/17282458/213872370-129d1116-174c-45fe-8ddf-1b03169f35e0.png">
+
 </p>
 <br />
 
