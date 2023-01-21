@@ -181,28 +181,35 @@ Refresh the webpage, PHP extensions are now completed!
 </p>
 
 <p>
-  The next steps are cleanup for optimization and security reasons. <br>
+  The next few steps are cleanup for optimization and security reasons. <br>
 13. Set ost-config.php with "Read" only permissions. <br>
 - Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
   - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>, check only the Read box
 </p>
-<br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1243" alt="Screenshot 2023-01-21 at 11 05 51 AM" src="https://user-images.githubusercontent.com/17282458/213875663-b340bc49-bf3b-475f-9b04-920f18282cc6.png">
 </p>
+<br />
+
 <p>
 14. Delete folder: C:\inetpub\wwwroot\osTicket\setup <br>
-
 </p>
-<br />
 <p>
-14. Browse as End Users and Help Desk Agent in osTicket:
+<img width="940" alt="Screenshot 2023-01-21 at 11 08 04 AM" src="https://user-images.githubusercontent.com/17282458/213875760-5696ef9d-0fe0-4460-a88e-66018a127c9f.png">
+</p>
+
+<br />
+
+<p>
+15. Browse as End Users and Help Desk Agent in osTicket:
 - Enduser: http://localhost/osTicket/ 
 - Help Desk Agent: http://localhost/osTicket/scp/login.php 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1588" alt="Enduser (customer)" src="https://user-images.githubusercontent.com/17282458/213875831-fdbc40d9-6d70-479b-99e7-d0c4567fa8e2.png">
+<img width="1792" alt="osticket-helpdesk-login" src="https://user-images.githubusercontent.com/17282458/213875889-69b1eb2d-79cc-4e86-b3a5-e9c6fce26136.png">
 </p>
+
 <br />
 
 <a href="https://github.com/aizhuxue007/osticket-postinstall">Go to Post Installations</a>
