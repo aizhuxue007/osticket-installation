@@ -75,7 +75,8 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 <img src="https://i.ibb.co/g4jztSS/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM">
 
   <img width="324" alt="click-browse-80" src="https://user-images.githubusercontent.com/17282458/213873205-22c81b5c-9021-4e96-a691-0f9e53ceeb10.png">
-  
+  <img width="1777" alt="browse80webpage" src="https://user-images.githubusercontent.com/17282458/213874299-fbcaf0f8-44a2-4453-91e4-0fa1a742e5b2.png">
+
 </p
 
 <br />
@@ -105,8 +106,9 @@ Refresh the webpage, PHP extensions are now completed!
   7. Rename <strong>ost-sampleconfig.php</strong> to <strong>ost-config.php</strong>. <br>
   - File is located in C:\inetpub\wwwroot\osTicket\include\<strong>ost-sampleconfig.php</strong> 
 </p>
-<p>
-<a href="https://ibb.co/JsP4JQ3"><img src="https://i.ibb.co/tJ5trXL/renametoostconfig1.png" alt="renametoostconfig1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<p><img width="1334" alt="renameosconfig" src="https://user-images.githubusercontent.com/17282458/213874767-3e12202c-20b4-43b3-b385-7dc85cca0eca.png">
+
+  
 </p>
 <br />
 
@@ -117,12 +119,11 @@ Refresh the webpage, PHP extensions are now completed!
 - Properties <br>
 - <strong>Disable inheritance</strong> and <strong>Remove All</strong> <br>
 - <strong>New Permissions</strong> then <strong>Everyone</strong> and allow <strong>Full Control</strong>
+- Hit OK!
 </p>
-<p>
-<a href="https://ibb.co/2t5qYMM"><img src="https://i.ibb.co/d27BJpp/ost-config-renamed-1.png" alt="ost-config-renamed-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-<a href="https://ibb.co/nc6jQCf"><img src="https://i.ibb.co/9TcWyt2/ost-config-permi.png" alt="ost-config-permi" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-<a href="https://ibb.co/7ncbjW4"><img src="https://i.ibb.co/2v25WtN/addeveryonepermission.png" alt="addeveryonepermission" border="0"></a>
-<a href="https://ibb.co/mX8mLfb"><img src="https://i.ibb.co/9VtJFQc/enableallpermissions.png" alt="enableallpermissions" border="0"></a>
+<p><img width="1124" alt="ostconfig-properties" src="https://user-images.githubusercontent.com/17282458/213874804-7a949dbc-bbec-4a38-bc64-5da71fd68700.png">
+<img width="730" alt="addeveryonepermission" src="https://user-images.githubusercontent.com/17282458/213874821-a0894c3b-ef26-482d-a5b4-26cf3da70c94.png">
+<img width="497" alt="enableallpermissions" src="https://user-images.githubusercontent.com/17282458/213874838-50cd9a13-65f4-49a6-9dd9-55feb73486bd.png">
 </p>
 <br />
 
@@ -133,7 +134,8 @@ Refresh the webpage, PHP extensions are now completed!
   - Fill out information up until the mySQL section.
 </p>
 <p>
-<a href="https://ibb.co/Gp0FG3P"><img src="https://i.ibb.co/7CXbBNy/Screenshot-2023-01-18-at-2-32-04-PM.png" alt="osTicketSetupform" border="0"></a>
+<img width="1060" alt="osticket-form" src="https://user-images.githubusercontent.com/17282458/213874939-ab9bbda8-8475-4097-9a4d-9e2ffabd6e65.png">
+
 </p>
 <br />
 
@@ -183,6 +185,7 @@ Refresh the webpage, PHP extensions are now completed!
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  The next steps are cleanup for optimization and security reasons.
 13. Set ost-config.php with "Read" only permissions. <br>
 - Filepath: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br>
   - Right click on file, go to <strong>Properties</strong>, then <strong>Security</strong>, check only the Read box
