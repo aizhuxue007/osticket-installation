@@ -28,7 +28,8 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 - Make sure the version is exactly the same, so that all the dependencies are compatible. <br>
 </p>
 <p>
-<a href="https://ibb.co/Km3bTJ1"><img src="https://i.ibb.co/TrFY9sC/downloadosticket.png" alt="downloadosticket" border="0"></a>
+<img width="1777" alt="downloadosticket" src="https://user-images.githubusercontent.com/17282458/213872317-abc37d0e-97de-4260-9f16-0acc07765547.png">
+
 </p>
 <br />
 
@@ -37,8 +38,10 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 2. Extract and move the 'upload' folder to c:\inetpub\wwwroot
 </p>
 <p>
-<a href="https://ibb.co/GkxrYTD"><img src="https://i.ibb.co/vmwMyYW/extractandmoveupload.png" alt="extractandmoveupload" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  <a href="https://ibb.co/WfWCQpx"><img src="https://i.ibb.co/GRvmX3x/uploadfolder.png" alt="uploadfolder" border="0"></a>
+<img width="1340" alt="extractandmoveupload" src="https://user-images.githubusercontent.com/17282458/213872341-0ff1aeeb-5f0c-4655-bdec-2ad3f694086c.png">
+<img width="1211" alt="uploadfolder" src="https://user-images.githubusercontent.com/17282458/213872361-85271713-a4fe-4c3f-a89e-7578d0be8a33.png">
+<img width="1175" alt="renametoosticke" src="https://user-images.githubusercontent.com/17282458/213872370-129d1116-174c-45fe-8ddf-1b03169f35e0.png">
+
 </p>
 <br />
 
@@ -47,8 +50,8 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 3.  Within the wwwroot directory, rename the 'upload' folder to 'osTicket' <br>
   - This folder hold web files that displays osTicket page in your browser.
 </p>
-<p><img width="1175" alt="renametoosticke" src="https://user-images.githubusercontent.com/17282458/213872879-3b4513c3-576a-4c15-a65e-28036ed0eb0e.png">
-
+<p>
+\<a href="https://ibb.co/SBssj5K"><img src="https://i.ibb.co/1Tvvg79/renametoosticke.png" alt="renametoosticke" border="0"></a>
 </p>
 <br />
 
@@ -57,7 +60,7 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 4. Restart IIS. <br>
 </p>
 <p>
-<img width="1524" alt="restart-IISpreinstall" src="https://user-images.githubusercontent.com/17282458/213873026-c060bf0f-af8f-45c3-8b34-d685d70b4a0c.png">
+<a href="https://ibb.co/p3VM0n7"><img src="https://i.ibb.co/8jvfKXC/restart-IISpreinstall.png" alt="restart-IISpreinstall" border="0"></a>
 </p>
 <br />
 
@@ -65,16 +68,16 @@ This quick tutorial guides the installation of osTicket, the open-source help de
 <p>
 5. Within IIS browse the osTicket webpage <br> 
  Go to: <br>
- - Sites <br> 
- - Default <br>
- - osTicket <br>
- - Browse *:80 on right panel <br>
+ - Sites > Default > osTicket > Browse *:80 on right panel <br>
  And Voila! You should see osTicket on your browser!
 </p>
 <p>
 <img src="https://i.ibb.co/g4jztSS/Screenshot-2023-01-18-at-2-25-57-PM.png" alt="Screenshot-2023-01-18-at-2-25-57-PM">
-<a href="https://ibb.co/jbvhxrZ"><img src="https://i.ibb.co/jbvhxrZ/click-browse-80.png" width="300" alt="click-browse-80" border="0" /></a>
-</p>
+
+  <img width="324" alt="click-browse-80" src="https://user-images.githubusercontent.com/17282458/213873205-22c81b5c-9021-4e96-a691-0f9e53ceeb10.png">
+  
+</p
+
 <br />
 
 <p>
@@ -88,8 +91,11 @@ Enable: <br>
 Refresh the webpage, PHP extensions are now completed!
 </p>
 <p>
-<a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.co/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
-<img src="https://i.ibb.co/pxpypJF/enablephpextension2.png" width="500" alt="enablephpextension2" border="0">
+<a href="https://ibb.co/0X73n5h"><img src="https://i.ibb.c![Uploading click-browse-80.png…]()
+o/8BCVmk6/enablephpextension1.png" alt="enablephpextension1" border="0"></a>
+
+  
+  
 </p>
 <br />
 
